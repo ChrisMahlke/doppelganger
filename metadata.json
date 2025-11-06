@@ -1,0 +1,7 @@
+{
+  "name": "Demographic Doppelganger",
+  "description": "Find your ZIP code’s twin — uncover communities across the U.S. that mirror your area’s data DNA. Discover surprising similarities in demographics, income, housing, and lifestyle across distant places.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
