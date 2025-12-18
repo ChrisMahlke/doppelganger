@@ -18,7 +18,7 @@ It combines a client-side frontend deployed from **Google AI Studio** with a dec
 
 ## **Live Application**
 
-**Try the application:** [https://demographic-doppelganger-71027948544.us-west1.run.app/](https://demographic-doppelganger-71027948544.us-west1.run.app/)
+**Try the application:** DISABLED
 
 The application is deployed and running on Google Cloud Run. Explore any U.S. ZIP code to discover its demographic profile and find similar communities across the country!
 
@@ -313,7 +313,7 @@ This is a **multi-repository project** with the following components:
 ### **Core Repositories**
 
 * **Frontend** (This Repository): [`doppelganger`](https://github.com/ChrisMahlke/doppelganger) - React/TypeScript frontend application
-  * Live Application: [https://demographic-doppelganger-71027948544.us-west1.run.app/](https://demographic-doppelganger-71027948544.us-west1.run.app/)
+  * Live Application: DISABLED
   * UI components, map visualization, and user interaction
 
 * **Backend Engine**: [`doppelganger-engine`](https://github.com/ChrisMahlke/doppelganger-engine) - Python Flask service
@@ -336,8 +336,8 @@ This is a **multi-repository project** with the following components:
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │  Frontend (doppelganger)                                            │
-│  https://demographic-doppelganger-71027948544.us-west1.run.app/     │
-│  .run.app/                                                          │
+│  https://dAPP_URL.REGION.run.app/                                   │
+│                                                                     │
 └──────────────────┬──────────────────────────────────────────────────┘
                    │
                    │ API Requests (with x-api-key)
@@ -357,7 +357,7 @@ This is a **multi-repository project** with the following components:
 
 ## **Related Documentation**
 
-* **Live Application**: [https://demographic-doppelganger-71027948544.us-west1.run.app/](https://demographic-doppelganger-71027948544.us-west1.run.app/)
+* **Live Application**: DISABLED
 * **API Gateway Spec**: [api-gateway-spec](https://github.com/ChrisMahlke/api-gateway-spec) - OpenAPI 2.0 spec and deployment guide
 * **Backend Engine**: [doppelganger-engine](https://github.com/ChrisMahlke/doppelganger-engine) - Python service documentation
 * **Node.js API** (Deprecated): [doppelganger-api](https://github.com/ChrisMahlke/doppelganger-api) - Reference implementation
